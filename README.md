@@ -14,7 +14,7 @@ a dreamer of
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/emotion-80247B?style=flat-square&logo=emotion&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> <img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 #### 💪🏼 New studying
-<img src="https://img.shields.io/badge/react-native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/react_native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
 #### 🛠️ Tools 
 
