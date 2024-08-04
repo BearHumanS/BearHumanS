@@ -15,6 +15,9 @@ a dreamer of
 
 #### 💪🏼 New studying
 <img src="https://img.shields.io/badge/react_native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/awsamplify-FF9900?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=react&logoColor=white"/>
 
 #### 🛠️ Tools 
 
