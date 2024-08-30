@@ -19,6 +19,10 @@ a dreamer of
 <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/awslambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonapigateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
+
 #### 🛠️ Tools 
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
