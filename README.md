@@ -45,5 +45,10 @@ Programmers - Lv1
 ![BearHumanS's GitHub stats](https://github-readme-stats.vercel.app/api?username=BearHumanS&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BearHumanS&layout=compact&theme=tokyonight)
 
+#### 🔍 experience
+
+24.10 ~ 24.11 Nerdlab freelancer
+24.12 ~ 25.05 Nerdlab
+25.06 ~ -ing something?
 
 </div>
